@@ -1,4 +1,7 @@
 package quicksort;
+// Jovana Piña González
+//Luis Gerardo Pacheco Castañeda
+//Arnold Tristán Alva Estada
 
 public class QuickSort {
 
